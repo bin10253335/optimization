@@ -1,3 +1,3 @@
 # optimization
 FJSP-multiobjective.
-After all the subsequent work was completed, the complete content was actually uploaded.
+After all the subsequent work was completed, the complete content will be uploaded.
